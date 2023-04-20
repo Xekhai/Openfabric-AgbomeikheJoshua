@@ -38,6 +38,17 @@ The solution is organized into separate modules:
 
 By following these rules, I have adhered to the constraints mentioned in the original task while providing a functional and effective solution for answering science-related questions.
 
+## Threshold Value for Confidence
+
+In the custom search function, a `threshold` value is used to determine whether the similarity between the input query and the questions in the dataset is high enough to provide a confident answer. The threshold value represents the minimum combined similarity score required for the bot to respond with an answer.
+
+By increasing the threshold value, you can ensure that the bot only provides answers when it has a higher level of confidence in their relevance. This can help to improve the overall quality of the answers provided by the bot, as it will only respond when it is more certain about the match.
+
+On the other hand, if the combined similarity score of the best match is below the threshold, the bot will not provide an answer. Instead, it will respond with a message indicating that it cannot answer the question. This helps to prevent the bot from providing potentially inaccurate or irrelevant answers when the similarity between the input query and the dataset is low.
+
+Adjusting the threshold value allows you to fine-tune the balance between the bot's confidence in its answers and its willingness to provide answers in cases where the similarity may not be as high.
+
+
 ## Dependencies
 Here are the dependencies I used for my solution:
 
@@ -48,13 +59,36 @@ Here are the dependencies I used for my solution:
 - torch
 - transformers
 
-## Instructions to Run
+## How to Run
 1. Install the required dependencies.
-
-2. Load the dataset in JSON format and place it in the appropriate directory.
-
-3. Update the dataset file path in the `main.py` file.
-
-4. Run the `start.sh` script to start the application.
-
-5. Send a request to the application with your science-related questions.
+ ```
+ poetry install
+ ```
+2. Load the virtual environment
+ ```
+ poetry shell
+ ```
+3. Run the `start.sh` script to start the application.
+ ```
+ ./start.sh
+ ```
+- If the script doesnt work, simply run:
+ ```
+ python ignite.py
+ ```
+4. Send a request to the `http://localhost:5000/app` with your science-related questions in the json body format below:
+ ```json
+  {
+    "text": [
+        "What is Meterology?"
+    ]
+  }
+ ```
+ 5. You should get a response like :
+ ```json
+ {
+    "text": [
+        "The study of the weather is called meteorology."
+    ]
+}
+ ```
