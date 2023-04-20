@@ -1766,6 +1766,21 @@ files = [
 watchdog = ["watchdog"]
 
 [[package]]
+name = "wikipedia-api"
+version = "0.5.8"
+description = "Python Wrapper for Wikipedia"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "Wikipedia-API-0.5.8.tar.gz", hash = "sha256:065c6541e7480b95b14b9607c243fbce6aefe084e6dc58e41ffb313aec472fcd"},
+    {file = "Wikipedia_API-0.5.8-py3-none-any.whl", hash = "sha256:f124cb59fef0c635fa3818d33025f4cd3daa4a119314728653959c0ede328813"},
+]
+
+[package.dependencies]
+requests = "*"
+
+[[package]]
 name = "zipp"
 version = "3.15.0"
 description = "Backport of pathlib-compatible object wrapper for zip files"
@@ -1851,4 +1866,4 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "c6f059e4c2f77db79a3a61ec8dce9e959d75f689fd072aaeef6f21812372b98a"
+content-hash = "0506f65dc214467847b0cde53a0c7e102829e0266ef537e902b242760ad8dafc"
