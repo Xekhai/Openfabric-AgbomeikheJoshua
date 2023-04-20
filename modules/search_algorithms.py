@@ -118,8 +118,8 @@ def custom_search_answers(query: str, dataset: dict, spacy_model) -> str:
 
     # Find the index of the most relevant question
     best_match_index = combined_similarities.index(max(combined_similarities))
-    print(max(combined_similarities))
-    print(dataset["questions"][best_match_index]["answer"])
+    # print(max(combined_similarities))
+    # print(dataset["questions"][best_match_index]["answer"])
 
 
     if combined_similarities[best_match_index] > threshold:
