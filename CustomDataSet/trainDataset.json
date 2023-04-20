@@ -1,308 +1,588 @@
 {
-    "questions": [
-      {
-        "question": "What is the atomic number of carbon?",
-        "answer": "The atomic number of carbon is 6."
-      },
-      {
-        "question": "What is the largest planet in our solar system?",
-        "answer": "Jupiter is the largest planet in our solar system."
-      },
-      {
-        "question": "What is the process by which plants use sunlight to make food?",
-        "answer": "The process by which plants use sunlight to make food is called photosynthesis."
-      },
-      {
-        "question": "What is the smallest unit of life?",
-        "answer": "The smallest unit of life is the cell."
-      },
-      {
-        "question": "What is the chemical symbol for gold?",
-        "answer": "The chemical symbol for gold is Au."
-      },
-      {
-        "question": "What is the process by which water changes from a liquid to a gas?",
-        "answer": "The process by which water changes from a liquid to a gas is called evaporation."
-      },
-      {
-        "question": "What is the nearest star to Earth?",
-        "answer": "The nearest star to Earth is the Sun."
-      },
-      {
-        "question": "What is the study of living things called?",
-        "answer": "The study of living things is called biology."
-      },
-      {
-        "question": "What is the force that holds atoms together?",
-        "answer": "The force that holds atoms together is the electromagnetic force."
-      },
-      {
-        "question": "What is the speed of light?",
-        "answer": "The speed of light is approximately 299,792,458 meters per second."
-      },
-      {
-        "question": "What is the largest organ in the human body?",
-        "answer": "The largest organ in the human body is the skin."
-      },
-      {
-        "question": "What is the smallest particle of an element that retains its chemical properties?",
-        "answer": "The smallest particle of an element that retains its chemical properties is an atom."
-      },
-      {
-        "question": "What is the process by which an organism produces offspring?",
-        "answer": "The process by which an organism produces offspring is called reproduction."
-      },
-      {
-        "question": "What is the smallest planet in our solar system?",
-        "answer": "Mercury is the smallest planet in our solar system."
-      },
-      {
-        "question": "What is the study of matter and energy called?",
-        "answer": "The study of matter and energy is called physics."
-      },
-      {
-        "question": "What is the process by which an organism changes over time to better survive in its environment?",
-        "answer": "The process by which an organism changes over time to better survive in its environment is called evolution."
-      },
-      {
-        "question": "What is the formula for water?",
-        "answer": "The formula for water is H2O."
-      },
-      {
-        "question": "What is the force that causes objects to fall towards the Earth?",
-        "answer": "The force that causes objects to fall towards the Earth is gravity."
-      },
-      {
-        "question": "What is the study of the Earth called?",
-        "answer": "The study of the Earth is called geology."
-      },
-      {
-        "question": "What is the process by which an organism breaks down food to release energy?",
-        "answer": "The process by which an organism breaks down food to release energy is called respiration."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the composition, structure, properties, and reactions of matter called?",
-        "answer": "The branch of science that deals with the study of the composition, structure, properties, and reactions of matter is called chemistry."
-      },
-      {
-        "question": "What is the force that opposes motion called?",
-        "answer": "The force that opposes motion is called friction."
-      },
-      {
-        "question": "What is the smallest particle of as compound that can exist and still retain the properties of that compound?",
-        "answer": "The smallest particle of a compound that can exist and still retain the properties of that compound is a molecule."
-      },
-      {
-        "question": "What is the process by which a gas changes into a liquid?",
-        "answer": "The process by which a gas changes into a liquid is called condensation."
-      },
-      {
-        "question": "What is the study of the weather called?",
-        "answer": "The study of the weather is called meteorology."
-      },
-      {
-        "question": "What is the process by which heat is transferred through a material by the movement of molecules?",
-        "answer": "The process by which heat is transferred through a material by the movement of molecules is called conduction."
-      },
-      {
-        "question": "What is the largest ocean on Earth?",
-        "answer": "The largest ocean on Earth is the Pacific Ocean."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the behavior of matter and energy in the universe?",
-        "answer": "The branch of science that deals with the study of the behavior of matter and energy in the universe is called astrophysics."
-      },
-      {
-        "question": "What is the process by which a solid changes directly into a gas?",
-        "answer": "The process by which a solid changes directly into a gas is called sublimation."
-      },
-      {
-        "question": "What is the study of the human body called?",
-        "answer": "The study of the human body is called anatomy."
-      },
-      {
-        "question": "What is the process by which rocks and soil are moved from one place to another by wind, water, or ice?",
-        "answer": "The process by which rocks and soil are moved from one place to another by wind, water, or ice is called erosion."
-      },
-      {
-        "question": "What is the study of the nervous system called?",
-        "answer": "The study of the nervous system is called neuroscience."
-      },
-      {
-        "question": "What is the process by which a liquid changes into a gas?",
-        "answer": "The process by which a liquid changes into a gas is called vaporization."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the structure and function of cells?",
-        "answer": "The branch of science that deals with the study of the structure and function of cells is called cytology."
-      },
-      {
-        "question": "What is the force that causes the tides?",
-        "answer": "The force that causes the tides is the gravitational pull of the Moon and the Sun."
-      },
-      {
-        "question": "What is the study of the Earth's atmosphere called?",
-        "answer": "The study of the Earth's atmosphere is called atmospheric science."
-      },
-      {
-        "question": "What is the process by which a gas changes directly into a solid?",
-        "answer": "The process by which a gas changes directly into a solid is called deposition."
-      },
-      {
-        "question": "What is the study of the Earth's physical features called?",
-        "answer": "The study of the Earth's physical features is called physical geography."
-      },
-      {
-        "question": "What is the process by which the Earth's magnetic poles reverse?",
-        "answer": "The process by which the Earth's magnetic poles reverse is called geomagnetic reversal."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the relationships between living organisms and their environment?",
-        "answer": "The branch of science that deals with the study of the relationships between living organisms and their environment is called ecology."
-      },
-      {
-        "question": "What is the process by which an electric current is induced in a conductor when it is moved through a magnetic field?",
-        "answer": "The process by which an electric current is induced in a conductor when it is moved through a magnetic field is called electromagnetic induction."
-      },
-      {
-        "question": "What is the study of the Earth's history called?",
-        "answer": "The study of the Earth's history is called geologic history."
-      },
-      {
-        "question": "What is the process by which heat is transferred by the movement of a fluid or gas?",
-        "answer": "The process by which heat is transferred by the movement of a fluid or gas is called convection."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the structure and function of the nervous system?",
-        "answer": "The branch of science that deals with the study of the structure and function of the nervous system is called neurology."
-      },
-      {
-        "question": "What is the process by which a liquid changes into a solid?",
-        "answer": "The process by which a liquid changes into a solid is called solidification."
-      },
-      {
-        "question": "What is the study of the Earth's magnetic field called?",
-        "answer": "The study of the Earth's magnetic field is called geomagnetism."
-      },
-      {
-        "question": "What is the process by which a solid changes into a liquid?",
-        "answer": "The process by which a solid changes into a liquid is called melting."
-      },
-      {
-        "question": "What is the study of the classification of living things called?",
-        "answer": "The study of the classification of living things is called taxonomy."
-      },
-      {
-        "question": "What is the force that causes objects to float in a fluid?",
-        "answer": "The force that causes objects to float in a fluid is called buoyancy."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the interactions between living organisms and their environment?",
-        "answer": "The branch of science that deals with the study of the interactions between living organisms and their environment is called ecology."
-      },
-      {
-        "question": "What is the process by which rocks are formed from the accumulation of sediment?",
-        "answer": "The process by which rocks are formed from the accumulation of sediment is called sedimentation."
-      },
-      {
-        "question": "What is the study of the Earth's oceans called?",
-        "answer": "The study of the Earth's oceans is called oceanography."
-      },
-      {
-        "question": "What is the process by which an atom loses or gains electrons?",
-        "answer": "The process by which an atom loses or gains electrons is called ionization."
-      },
-      {
-        "question": "What is the study of the Earth's landforms called?",
-        "answer": "The study of the Earth's landforms is called geomorphology."
-      },
-      {
-        "question": "What is the process by which water seeps into the ground and becomes groundwater?",
-        "answer": "The process by which water seeps into the ground and becomes groundwater is called infiltration."
-      },
-      {
-        "question": "What is the study of the behavior and properties of light called?",
-        "answer": "The study of the behavior and properties of light is called optics."
-      },
-      {
-        "question": "What is the process by which a liquid changes into a gas at the surface of the liquid?",
-        "answer": "The process by which a liquid changes into a gas at the surface of the liquid is called evaporation."
-      },
-      {
-        "question": "What is the study of the Earth's rocks and minerals called?",
-        "answer": "The study of the Earth's rocks and minerals is called petrology."
-      },
-      {
-        "question": "What is the process by which an object moves in a circle around a central point?",
-        "answer": "The process by which an object moves in a circle around a central point is called circular motion."
-      },
-      {
-        "question": "What is the study of the Earth's natural resources called?",
-        "answer": "The study of the Earth's natural resources is called natural resource management."
-      },
-      {
-        "question": "What is the process by which living things produce offspring without the need for a partner?",
-        "answer": "The process by which living things produce offspring without the need for a partner is called asexual reproduction."
-      },
-      {
-        "question": "What is the study of the Earth's climate called?",
-        "answer": "The study of the Earth's climate is called climatology."
-      },
-      {
-        "question": "What is the process by which a gas changes into a liquid?",
-        "answer": "The process by which a gas changes into a liquid is called condensation."
-      },
-      {
-        "question": "What is the study of the Earth's past climates called?",
-        "answer": "The study of the Earth's past climates is called paleoclimatology."
-      },
-      {
-        "question": "What is the process by which an electric charge is stored?",
-        "answer": "The process by which an electric charge is stored is called capacitation."
-      },
-      {
-        "question": "What is the study of the Earth's glaciers called?",
-        "answer": "The study of the Earth's glaciers is called glaciology."
-      },
-      {
-        "question": "What is the process by which a gas changes directly into a plasma?",
-        "answer": "The process by which a gas changes directly into a plasma is called ionization."
-      },
-      {
-        "question": "What is the study of the Earth's magnetic field and its interaction with the solar wind called?",
-        "answer": "The study of the Earth's magnetic field and its interaction with the solar wind is called magnetospheric physics."
-      },
-      {
-        "question": "What is the process by which a solid changes into a gas without passing through the liquid state?",
-        "answer": "The process by which a solid changes into a gas without passing through the liquid state is called sublimation."
-      },
-      {
-        "question": "What is the study of the properties and behavior of matter in the presence of electric and magnetic fields called?",
-        "answer": "The study of the properties and behavior of matter in the presence of electric and magnetic fields is called electromagnetism."
-      },
-      {
-        "question": "What is the process by which a liquid changes into a solid?",
-        "answer": "The process by which a liquid changes into a solid is called solidification."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the Earth's crust and the processes that shape it?",
-        "answer": "The branch of science that deals with the study of the Earth's crust and the processes that shape it is called geology."
-      },
-      {
-        "question": "What is the process by which an organism develops from a fertilized egg?",
-        "answer": "The process by which an organism develops from a fertilized egg is called embryogenesis."
-      },
-      {
-        "question": "What is the study of the Earth's magnetic field and its changes over time called?",
-        "answer": "The study of the Earth's magnetic field and its changes over time is called paleomagnetism."
-      },
-      {
-        "question": "What is the process by which plants use sunlight to make their own food?",
-        "answer": "The process by which plants use sunlight to make their own food is called photosynthesis."
-      },
-      {
-        "question": "What is the branch of science that deals with the study of the physical and chemical processes that occur within living organisms?",
-        "answer": "The branch of science that deals with the study of the physical and chemical processes that occur within living organisms is called biochemistry."
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "What is the atomic number of carbon?",
+      "answer": "The atomic number of carbon is 6."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "What is the process by which plants use sunlight to make food?",
+      "answer": "The process by which plants use sunlight to make food is called photosynthesis."
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "answer": "The smallest unit of life is the cell."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "What is the process by which water changes from a liquid to a gas?",
+      "answer": "The process by which water changes from a liquid to a gas is called evaporation."
+    },
+    {
+      "question": "What is the nearest star to Earth?",
+      "answer": "The nearest star to Earth is the Sun."
+    },
+    {
+      "question": "What is the study of living things called?",
+      "answer": "The study of living things is called biology."
+    },
+    {
+      "question": "What is the force that holds atoms together?",
+      "answer": "The force that holds atoms together is the electromagnetic force."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792,458 meters per second."
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answer": "The largest organ in the human body is the skin."
+    },
+    {
+      "question": "What is the smallest particle of an element that retains its chemical properties?",
+      "answer": "The smallest particle of an element that retains its chemical properties is an atom."
+    },
+    {
+      "question": "What is the process by which an organism produces offspring?",
+      "answer": "The process by which an organism produces offspring is called reproduction."
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "answer": "Mercury is the smallest planet in our solar system."
+    },
+    {
+      "question": "What is the study of matter and energy called?",
+      "answer": "The study of matter and energy is called physics."
+    },
+    {
+      "question": "What is the process by which an organism changes over time to better survive in its environment?",
+      "answer": "The process by which an organism changes over time to better survive in its environment is called evolution."
+    },
+    {
+      "question": "What is the formula for water?",
+      "answer": "The formula for water is H2O."
+    },
+    {
+      "question": "What is the force that causes objects to fall towards the Earth?",
+      "answer": "The force that causes objects to fall towards the Earth is gravity."
+    },
+    {
+      "question": "What is the study of the Earth called?",
+      "answer": "The study of the Earth is called geology."
+    },
+    {
+      "question": "What is the process by which an organism breaks down food to release energy?",
+      "answer": "The process by which an organism breaks down food to release energy is called respiration."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the composition, structure, properties, and reactions of matter called?",
+      "answer": "The branch of science that deals with the study of the composition, structure, properties, and reactions of matter is called chemistry."
+    },
+    {
+      "question": "What is the force that opposes motion called?",
+      "answer": "The force that opposes motion is called friction."
+    },
+    {
+      "question": "What is the smallest particle of as compound that can exist and still retain the properties of that compound?",
+      "answer": "The smallest particle of a compound that can exist and still retain the properties of that compound is a molecule."
+    },
+    {
+      "question": "What is the process by which a gas changes into a liquid?",
+      "answer": "The process by which a gas changes into a liquid is called condensation."
+    },
+    {
+      "question": "What is the study of the weather called?",
+      "answer": "The study of the weather is called meteorology."
+    },
+    {
+      "question": "What is the process by which heat is transferred through a material by the movement of molecules?",
+      "answer": "The process by which heat is transferred through a material by the movement of molecules is called conduction."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the behavior of matter and energy in the universe?",
+      "answer": "The branch of science that deals with the study of the behavior of matter and energy in the universe is called astrophysics."
+    },
+    {
+      "question": "What is the process by which a solid changes directly into a gas?",
+      "answer": "The process by which a solid changes directly into a gas is called sublimation."
+    },
+    {
+      "question": "What is the study of the human body called?",
+      "answer": "The study of the human body is called anatomy."
+    },
+    {
+      "question": "What is the process by which rocks and soil are moved from one place to another by wind, water, or ice?",
+      "answer": "The process by which rocks and soil are moved from one place to another by wind, water, or ice is called erosion."
+    },
+    {
+      "question": "What is the study of the nervous system called?",
+      "answer": "The study of the nervous system is called neuroscience."
+    },
+    {
+      "question": "What is the process by which a liquid changes into a gas?",
+      "answer": "The process by which a liquid changes into a gas is called vaporization."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the structure and function of cells?",
+      "answer": "The branch of science that deals with the study of the structure and function of cells is called cytology."
+    },
+    {
+      "question": "What is the force that causes the tides?",
+      "answer": "The force that causes the tides is the gravitational pull of the Moon and the Sun."
+    },
+    {
+      "question": "What is the study of the Earth's atmosphere called?",
+      "answer": "The study of the Earth's atmosphere is called atmospheric science."
+    },
+    {
+      "question": "What is the process by which a gas changes directly into a solid?",
+      "answer": "The process by which a gas changes directly into a solid is called deposition."
+    },
+    {
+      "question": "What is the study of the Earth's physical features called?",
+      "answer": "The study of the Earth's physical features is called physical geography."
+    },
+    {
+      "question": "What is the process by which the Earth's magnetic poles reverse?",
+      "answer": "The process by which the Earth's magnetic poles reverse is called geomagnetic reversal."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the relationships between living organisms and their environment?",
+      "answer": "The branch of science that deals with the study of the relationships between living organisms and their environment is called ecology."
+    },
+    {
+      "question": "What is the process by which an electric current is induced in a conductor when it is moved through a magnetic field?",
+      "answer": "The process by which an electric current is induced in a conductor when it is moved through a magnetic field is called electromagnetic induction."
+    },
+    {
+      "question": "What is the study of the Earth's history called?",
+      "answer": "The study of the Earth's history is called geologic history."
+    },
+    {
+      "question": "What is the process by which heat is transferred by the movement of a fluid or gas?",
+      "answer": "The process by which heat is transferred by the movement of a fluid or gas is called convection."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the structure and function of the nervous system?",
+      "answer": "The branch of science that deals with the study of the structure and function of the nervous system is called neurology."
+    },
+    {
+      "question": "What is the process by which a liquid changes into a solid?",
+      "answer": "The process by which a liquid changes into a solid is called solidification."
+    },
+    {
+      "question": "What is the study of the Earth's magnetic field called?",
+      "answer": "The study of the Earth's magnetic field is called geomagnetism."
+    },
+    {
+      "question": "What is the process by which a solid changes into a liquid?",
+      "answer": "The process by which a solid changes into a liquid is called melting."
+    },
+    {
+      "question": "What is the study of the classification of living things called?",
+      "answer": "The study of the classification of living things is called taxonomy."
+    },
+    {
+      "question": "What is the force that causes objects to float in a fluid?",
+      "answer": "The force that causes objects to float in a fluid is called buoyancy."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the interactions between living organisms and their environment?",
+      "answer": "The branch of science that deals with the study of the interactions between living organisms and their environment is called ecology."
+    },
+    {
+      "question": "What is the process by which rocks are formed from the accumulation of sediment?",
+      "answer": "The process by which rocks are formed from the accumulation of sediment is called sedimentation."
+    },
+    {
+      "question": "What is the study of the Earth's oceans called?",
+      "answer": "The study of the Earth's oceans is called oceanography."
+    },
+    {
+      "question": "What is the process by which an atom loses or gains electrons?",
+      "answer": "The process by which an atom loses or gains electrons is called ionization."
+    },
+    {
+      "question": "What is the study of the Earth's landforms called?",
+      "answer": "The study of the Earth's landforms is called geomorphology."
+    },
+    {
+      "question": "What is the process by which water seeps into the ground and becomes groundwater?",
+      "answer": "The process by which water seeps into the ground and becomes groundwater is called infiltration."
+    },
+    {
+      "question": "What is the study of the behavior and properties of light called?",
+      "answer": "The study of the behavior and properties of light is called optics."
+    },
+    {
+      "question": "What is the process by which a liquid changes into a gas at the surface of the liquid?",
+      "answer": "The process by which a liquid changes into a gas at the surface of the liquid is called evaporation."
+    },
+    {
+      "question": "What is the study of the Earth's rocks and minerals called?",
+      "answer": "The study of the Earth's rocks and minerals is called petrology."
+    },
+    {
+      "question": "What is the process by which an object moves in a circle around a central point?",
+      "answer": "The process by which an object moves in a circle around a central point is called circular motion."
+    },
+    {
+      "question": "What is the study of the Earth's natural resources called?",
+      "answer": "The study of the Earth's natural resources is called natural resource management."
+    },
+    {
+      "question": "What is the process by which living things produce offspring without the need for a partner?",
+      "answer": "The process by which living things produce offspring without the need for a partner is called asexual reproduction."
+    },
+    {
+      "question": "What is the study of the Earth's climate called?",
+      "answer": "The study of the Earth's climate is called climatology."
+    },
+    {
+      "question": "What is the process by which a gas changes into a liquid?",
+      "answer": "The process by which a gas changes into a liquid is called condensation."
+    },
+    {
+      "question": "What is the study of the Earth's past climates called?",
+      "answer": "The study of the Earth's past climates is called paleoclimatology."
+    },
+    {
+      "question": "What is the process by which an electric charge is stored?",
+      "answer": "The process by which an electric charge is stored is called capacitation."
+    },
+    {
+      "question": "What is the study of the Earth's glaciers called?",
+      "answer": "The study of the Earth's glaciers is called glaciology."
+    },
+    {
+      "question": "What is the process by which a gas changes directly into a plasma?",
+      "answer": "The process by which a gas changes directly into a plasma is called ionization."
+    },
+    {
+      "question": "What is the study of the Earth's magnetic field and its interaction with the solar wind called?",
+      "answer": "The study of the Earth's magnetic field and its interaction with the solar wind is called magnetospheric physics."
+    },
+    {
+      "question": "What is the process by which a solid changes into a gas without passing through the liquid state?",
+      "answer": "The process by which a solid changes into a gas without passing through the liquid state is called sublimation."
+    },
+    {
+      "question": "What is the study of the properties and behavior of matter in the presence of electric and magnetic fields called?",
+      "answer": "The study of the properties and behavior of matter in the presence of electric and magnetic fields is called electromagnetism."
+    },
+    {
+      "question": "What is the process by which a liquid changes into a solid?",
+      "answer": "The process by which a liquid changes into a solid is called solidification."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the Earth's crust and the processes that shape it?",
+      "answer": "The branch of science that deals with the study of the Earth's crust and the processes that shape it is called geology."
+    },
+    {
+      "question": "What is the process by which an organism develops from a fertilized egg?",
+      "answer": "The process by which an organism develops from a fertilized egg is called embryogenesis."
+    },
+    {
+      "question": "What is the study of the Earth's magnetic field and its changes over time called?",
+      "answer": "The study of the Earth's magnetic field and its changes over time is called paleomagnetism."
+    },
+    {
+      "question": "What is the process by which plants use sunlight to make their own food?",
+      "answer": "The process by which plants use sunlight to make their own food is called photosynthesis."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of the physical and chemical processes that occur within living organisms?",
+      "answer": "The branch of science that deals with the study of the physical and chemical processes that occur within living organisms is called biochemistry."
+    },
+    {
+      "question": "What is the study of the properties and behavior of matter in the presence of electric and magnetic fields called?",
+      "answer": "The study of the properties and behavior of matter in the presence of electric and magnetic fields is called electromagnetism."
+    },
+    {
+      "question": "What is the process by which a liquid changes into a solid?",
+      "answer": "The process by which a liquid changes into a solid is called solidification."
+    },
+    {
+      "question": "What is the scientific discipline that studies the interactions between organisms and their environment?",
+      "answer": "The scientific discipline that studies the interactions between organisms and their environment is called ecology."
+    },
+    {
+      "question": "What is the process by which molecules move from an area of high concentration to an area of low concentration?",
+      "answer": "The process by which molecules move from an area of high concentration to an area of low concentration is called diffusion."
+    },
+    {
+      "question": "What is the branch of physics that deals with the behavior of atomic nuclei and their interactions?",
+      "answer": "The branch of physics that deals with the behavior of atomic nuclei and their interactions is called nuclear physics."
+    },
+    {
+      "question": "What is the scientific discipline that studies the interactions between organisms and their environment?",
+      "answer": "The scientific discipline that studies the interactions between organisms and their environment is called ecology."
+    },
+    {
+      "question": "What is the process by which molecules move from an area of high concentration to an area of low concentration?",
+      "answer": "The process by which molecules move from an area of high concentration to an area of low concentration is called diffusion."
+    },
+    {
+      "question": "What is the branch of physics that deals with the behavior of atomic nuclei and their interactions?",
+      "answer": "The branch of physics that deals with the behavior of atomic nuclei and their interactions is called nuclear physics."
+    },
+    {
+      "question": "What is the study of heredity and the variation of inherited characteristics in living organisms?",
+      "answer": "The study of heredity and the variation of inherited characteristics in living organisms is called genetics."
+    },
+    {
+      "question": "What is the force that holds the atoms together in a molecule?",
+      "answer": "The force that holds the atoms together in a molecule is called a chemical bond."
+    },
+    {
+      "question": "What is the process by which organisms convert light energy into chemical energy to fuel their growth and reproduction?",
+      "answer": "The process by which organisms convert light energy into chemical energy to fuel their growth and reproduction is called photosynthesis."
+    },
+    {
+      "question": "What is the branch of science that deals with the study of celestial objects and phenomena?",
+      "answer": "The branch of science that deals with the study of celestial objects and phenomena is called astronomy."
+    },
+    {
+      "question": "What is the scientific study of the structure, function, and disorders of the nervous system?",
+      "answer": "The scientific study of the structure, function, and disorders of the nervous system is called neuroscience."
+    },
+    {
+      "question": "What is the branch of biology that focuses on the classification and identification of living organisms?",
+      "answer": "The branch of biology that focuses on the classification and identification of living organisms is called taxonomy."
+    },
+    {
+      "question": "What is the process by which water vapor in the air is changed into liquid water?",
+      "answer": "The process by which water vapor in the air is changed into liquid water is called condensation."
+    },
+    {
+      "question": "What is the study of the behavior, structure, and function of cells?",
+      "answer": "The study of the behavior, structure, and function of cells is called cell biology."
+    },
+    {
+      "question": "What is the force that attracts objects with mass towards each other?",
+      "answer": "The force that attracts objects with mass towards each other is called gravity."
+    },
+    {
+      "question": "What is friction?",
+      "answer": "Friction is the force that opposes motion between two surfaces in contact with each other."
+    },
+    {
+      "question": "What is the difference between a conductor and an insulator?",
+      "answer": "A conductor is a material that allows electric current to flow through it easily, while an insulator is a material that does not allow electric current to flow through it easily."
+    },
+    {
+      "question": "What is the difference between a chemical change and a physical change?",
+      "answer": "A chemical change is a change in which one or more substances are transformed into new substances with different properties, while a physical change is a change in which the substance retains its original identity, but its physical properties may change."
+    },
+    {
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "answer": "The process by which plants convert light energy into chemical energy is called photosynthesis."
+    },
+    {
+      "question": "What are the stages of photosynthesis?",
+      "answer": "Photosynthesis involves two stages: the light-dependent reactions that occur in the thylakoid membranes, and the light-independent reactions that occur in the stroma of chloroplasts."
+    },
+    {
+      "question": "What is the difference between a solution and a suspension?",
+      "answer": "A solution is a homogeneous mixture of two or more substances that are evenly distributed, while a suspension is a heterogeneous mixture of two or more substances that are not evenly distributed and will eventually settle out."
+    },
+    {
+      "question": "What is the difference between an endothermic reaction and an exothermic reaction?",
+      "answer": "An endothermic reaction is a reaction that absorbs energy from the surroundings, while an exothermic reaction is a reaction that releases energy to the surroundings."
+    },
+    {
+      "question": "What is the scientific method?",
+      "answer": "The scientific method is a systematic approach to problem-solving that involves observation, hypothesis formation, experimentation, and data analysis."
+    },
+    {
+      "question": "What is the difference between a prokaryotic cell and a eukaryotic cell?",
+      "answer": "A prokaryotic cell is a type of cell that lacks a nucleus and other membrane-bound organelles, while a eukaryotic cell is a type of cell that has a nucleus and other membrane-bound organelles."
+    },
+    {
+      "question": "What is the difference between a gene and an allele?",
+      "answer": "A gene is a segment of DNA that contains the instructions for making a particular protein or RNA molecule, while an allele is one of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome."
+    },
+    {
+      "question": "What is the difference between a virus and a bacterium?",
+      "answer": "A virus is a small infectious agent that can only replicate inside the cells of living organisms, while a bacterium is a single-celled microorganism that can survive and reproduce independently outside of host cells."
+    },
+    {
+      "question": "What is the difference between weather and climate?",
+      "answer": "Weather refers to the short-term atmospheric conditions in a specific place and time, while climate refers to the long-term patterns of temperature, precipitation, and other weather variables in a particular region."
+    },
+    {
+      "question": "What is the difference between renewable and non-renewable energy?",
+      "answer": "Renewable energy is energy that is derived from renewable resources, such as wind, solar, or hydro power, that can be replenished naturally over time, while non-renewable energy is energy that is derived from finite resources, such as fossil fuels, that cannot be replenished once they are depleted."
+    },
+    {
+      "question": "What is the process by which the Earth's magnetic field reverses its polarity?",
+      "answer": "The process by which the Earth's magnetic field reverses its polarity is called geomagnetic reversal."
+    },
+    {
+      "question": "What is the difference between a monocot and a dicot plant?",
+      "answer": "A monocot plant is a type of plant that has one cotyledon (seed leaf), parallel leaf veins, and flower parts in multiples of three, while a dicot plant is a type of plant that has two cotyledons, branching leaf veins, and flower parts in multiples of four or five."
+    },
+    {
+      "question": "What is the difference between kinetic and potential energy?",
+      "answer": "Kinetic energy is the energy that an object possesses due to its motion, while potential energy is the energy that an object possesses due to its position or state."
+    },
+    {
+      "question": "What is the difference between an autotroph and a heterotroph?",
+      "answer": "An autotroph is an organism that is capable of synthesizing its own food using energy from the sun or other inorganic sources, while a heterotroph is an organism that obtains its food by consuming other organisms or organic matter."
+    },
+    {
+      "question": "What is the difference between a chemical element and a chemical compound?",
+      "answer": "A chemical element is a substance that cannot be broken down into simpler substances by chemical means, while a chemical compound is a substance composed of two or more different elements chemically bonded together."
+    },
+    {
+      "question": "What is the difference between a concave lens and a convex lens?",
+      "answer": "A concave lens is a lens that is thinner at the center than at the edges, causing light rays to diverge, while a convex lens is a lens that is thicker at the center than at the edges, causing light rays to converge."
+    },
+    {
+      "question": "What is the difference between a polymer and a monomer?",
+      "answer": "A polymer is a large molecule that is composed of many repeating subunits called monomers, while a monomer is a small molecule that can join together with other molecules to form a polymer."
+    },
+    {
+      "question": "What is the difference between an acid and a base?",
+      "answer": "An acid is a substance that donates a proton or accepts an electron pair in a chemical reaction, while a base is a substance that donates an electron pair or accepts a proton in a chemical reaction."
+    },
+    {
+      "question": "What is the difference between a chemical bond and a physical bond?",
+      "answer": "A chemical bond is a strong attraction between two or more atoms that allows them to form a molecule, while a physical bond is a weaker attraction between two or more particles that does not involve the sharing or transfer of electrons."
+    },
+    {
+      "question": "What is the difference between a metal and a nonmetal?",
+      "answer": "A metal is a substance that is typically hard, shiny, malleable, and ductile, and conducts heat and electricity well, while a nonmetal is a substance that is typically brittle, dull, and does not conduct heat and electricity well."
+    },
+    {
+      "question": "What is the difference between an endocrine gland and an exocrine gland?",
+      "answer": "An endocrine gland is a gland that secretes hormones directly into the bloodstream, while an exocrine gland is a gland that secretes its products into a duct that carries the product to the surface of an organ or tissue."
+    },
+    {
+      "question": "What is the difference between a qualitative observation and a quantitative observation?",
+      "answer": "A qualitative observation is an observation that describes the properties of an object or event, while a quantitative observation is an observation that involves measurement or numerical data."
+    },
+    {
+      "question": "What is the difference between a chemical reaction and a physical change?",
+      "answer": "A chemical reaction is a change that involves the formation of one or more new substances with different properties, while a physical change is a change that does not involve the formation of new substances and only changes the physical properties of the substance."
+    },
+    {
+      "question": "What is the difference between a virus and a bacterium?",
+      "answer": "A virus is a small infectious agent that can only replicate inside the cells of living organisms, while a bacterium is a single-celled microorganism that can survive and reproduce independently outside of host cells."
+    },
+    {
+      "question": "What is the difference between a convex lens and a concave lens?",
+      "answer": "A convex lens is a lens that is thicker in the center than at the edges, causing light rays to converge, while a concave lens is a lens that is thinner in the center than at the edges, causing light rays to diverge."
+    },
+    {
+      "question": "What is the difference between an ionic bond and a covalent bond?",
+      "answer": "An ionic bond is a type of chemical bond that involves the transfer of electrons between atoms, while a covalent bond is a type of chemical bond that involves the sharing of electrons between atoms."
+    },
+    {
+      "question": "What is the difference between an open system and a closed system?",
+      "answer": "An open system is a system that can exchange matter and energy with its surroundings, while a closed system is a system that cannot exchange matter or energy with its surroundings."
+    },
+    {
+      "question": "What is the process by which water changes from a liquid to a gas?",
+      "answer": "The process by which water changes from a liquid to a gas is called evaporation."
+    },
+    {
+      "question": "What is the difference between a polymer and a monomer?",
+      "answer": "A polymer is a large molecule that is composed of many repeating subunits called monomers, while a monomer is a small molecule that can join together with other molecules to form a polymer."
+    },
+    {
+      "question": "What is the difference between a physical change and a chemical change?",
+      "answer": "A physical change is a change that does not alter the composition of the substance, while a chemical change is a change that alters the composition of the substance, forming new substances with different properties."
+    },
+    {
+      "question": "What is the difference between a virus and a bacterium?",
+      "answer": "A virus is a small infectious agent that can only replicate inside the cells of living organisms, while a bacterium is a single-celled microorganism that can survive and reproduce independently outside of host cells."
+    },
+    {
+      "question": "What is the difference between kinetic energy and potential energy?",
+      "answer": "Kinetic energy is the energy of motion, while potential energy is the energy that an object possesses due to its position or state."
+    },
+    {
+      "question": "What is the difference between an autotroph and a heterotroph?",
+      "answer": "An autotroph is an organism that is capable of synthesizing its own food using energy from the sun or other inorganic sources, while a heterotroph is an organism that obtains its food by consuming other organisms or organic matter."
+    },
+    {
+      "question": "What is the difference between a solution and a suspension?",
+      "answer": "A solution is a homogeneous mixture of two or more substances that are evenly distributed, while a suspension is a heterogeneous mixture of two or more substances that are not evenly distributed and will eventually settle out."
+    },
+    {
+      "question": "What is the difference between an endothermic reaction and an exothermic reaction?",
+      "answer": "An endothermic reaction is a reaction that absorbs energy from the surroundings, while an exothermic reaction is a reaction that releases energy to the surroundings."
+    },
+    {
+      "question": "What is the difference between a gene and an allele?",
+      "answer": "A gene is a segment of DNA that contains the instructions for making a particular protein or RNA molecule, while an allele is one of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome."
+    },
+    {
+      "question": "What is the process by which an organism develops from a fertilized egg?",
+      "answer": "The process by which an organism develops from a fertilized egg is called embryogenesis."
+    },
+    {
+      "question": "What is the study of the Earth's magnetic field and its changes over time called?",
+      "answer": "The study of the Earth's magnetic field and its changes over time is called paleomagnetism."
+    },
+    {
+      "question": "What is the difference between a conductor and an insulator?",
+      "answer": "A conductor is a material that allows electric current to flow through it easily, while an insulator is a material that does not allow electric current to flow through it easily."
+    },
+    {
+      "question": "What is the difference between a comet and an asteroid?",
+      "answer": "A comet is a small celestial body made of ice, dust, and rock that orbits the sun and produces a visible coma (atmosphere) and/or tail, while an asteroid is a small rocky or metallic object that orbits the sun and is usually found in the asteroid belt between Mars and Jupiter."
+    },
+    {
+      "question": "What is the difference between a hypertonic solution and a hypotonic solution?",
+      "answer": "A hypertonic solution is a solution that has a higher solute concentration than another solution, while a hypotonic solution is a solution that has a lower solute concentration than another solution."
+    },
+    {
+      "question": "What is the difference between an element and a compound?",
+      "answer": "An element is a substance that cannot be broken down into simpler substances by chemical means, while a compound is a substance composed of two or more different elements chemically bonded together."
+    },
+    {
+      "question": "What is the difference between the light reactions and the dark reactions of photosynthesis?",
+      "answer": "The light reactions of photosynthesis involve the capture of light energy by chlorophyll and the generation of ATP and NADPH, while the dark reactions (also known as the Calvin cycle) involve the use of these energy-rich molecules to fix carbon dioxide into glucose."
+    },
+    {
+      "question": "What is the difference between a predator and a prey?",
+      "answer": "A predator is an organism that hunts and kills other organisms for food, while a prey is an organism that is hunted and killed by other organisms for food."
+    },
+    {
+      "question": "What is the difference between a chromosome and a gene?",
+      "answer": "A chromosome is a long, linear or circular structure of DNA that carries genetic information, while a gene is a segment of DNA that contains the instructions for making a particular protein or RNA molecule."
+    },
+    {
+      "question": "What is the difference between a mammal and a reptile?",
+      "answer": "A mammal is a warm-blooded vertebrate that has hair or fur, produces milk for its young, and typically gives birth to live offspring, while a reptile is a cold-blooded vertebrate that has scaly skin, lays eggs, and has a generally elongated body shape."
+    },
+    {
+      "question": "What is the difference between an atomic number and an atomic mass?",
+      "answer": "An atomic number is the number of protons in an atom's nucleus, while an atomic mass is the total mass of an atom's protons, neutrons, and electrons."
+    },
+    {
+      "question": "What is the difference between a catalyst and an enzyme?",
+      "answer": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process, while an enzyme is a biological catalyst that speeds up a specific chemical reaction in a living organism."
+    },
+    {
+      "question": "What is the difference between a mineral and a rock?",
+      "answer": "A mineral is a naturally occurring inorganic substance that has a specific chemical composition and crystal structure, while a rock is a solid mixture of two or more minerals."
+    },
+    {
+      "question": "What is the difference between a prokaryotic cell and a eukaryotic cell?",
+      "answer": "A prokaryotic cell is a type of cell that lacks a nucleus and other membrane-bound organelles, while a eukaryotic cell is a type of cell that has a nucleus and other membrane-bound organelles."
+    }
+  ]
+}

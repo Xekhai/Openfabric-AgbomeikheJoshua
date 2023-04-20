@@ -8,6 +8,7 @@ import spacy
 from ontology_dc8f06af066e4a7880a5938933236037.simple_text import SimpleText
 from openfabric_pysdk.context import OpenfabricExecutionRay
 from openfabric_pysdk.loader import ConfigClass
+from transformers import AutoTokenizer, AutoModel
 
 from modules.utils import load_dataset
 from modules.text_processing import identify_topics
@@ -19,6 +20,12 @@ spacy_model = spacy.load("en_core_web_sm")
 # Callback function called on update config
 def config(configuration: ConfigClass):
     pass
+
+# Load the BERT model for text encoding
+bert_model_name = 'bert-base-uncased'
+tokenizer = AutoTokenizer.from_pretrained(bert_model_name)
+bert_model = AutoModel.from_pretrained(bert_model_name)
+
 
 def execute(request: SimpleText, execution_context: OpenfabricExecutionRay) -> SimpleText:
     """

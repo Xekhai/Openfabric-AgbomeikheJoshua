@@ -10,6 +10,8 @@ openfabric-pysdk = "0.1.11"
 spacy = "^3.2"
 scikit-learn = "^1.0"
 Werkzeug = "2.0.3"
+transformers = "^4.13.0"
+torch = "^1.10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
