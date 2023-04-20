@@ -2,7 +2,7 @@
 
 """
 This module provides a custom search function to find the most relevant answer
-in a given dataset using a combination of cosine similarity and Jaccard similarity.
+in a given dataset using a combination of BERT embeddings, cosine similarity and Jaccard similarity.
 """
 
 from typing import List
